@@ -13,18 +13,16 @@ class Solution {
        }
        boolean [] vis=new boolean[n+1];
        vis[source] = true;
-       boolean ans =vpp(adj,source,destination,false,vis);
+       boolean ans =vpp(adj,source,destination,vis);
        return ans;
     }
-    public static boolean vpp(ArrayList<ArrayList<Integer>> adj,int s, int d,boolean c, boolean [] vis){
+    public static boolean vpp(ArrayList<ArrayList<Integer>> adj,int s, int d, boolean [] vis){
         if(s==d)return true;
         for(int nbr:adj.get(s)){
-            if(c)break;
             if(!vis[nbr]){
                // System.out.println(nbr);
                 vis[nbr]=true;
-                c=vpp(adj,nbr,d,c,vis);
-                if(c==true)return true;
+                if(vpp(adj,nbr,d,vis))return true;
             }
         }
        

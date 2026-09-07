@@ -18,6 +18,7 @@ class Solution {
     public static boolean vpp(ArrayList<ArrayList<Integer>> adj,int s, int d,boolean c, boolean [] vis){
         if(s==d)return true;
         for(int nbr:adj.get(s)){
+            if(c)break;
             if(!vis[nbr]){
                 System.out.println(nbr);
                 vis[nbr]=true;

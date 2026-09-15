@@ -1,34 +1,30 @@
 class Solution {
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        Queue<int []> q=new ArrayDeque<>();
-        q.offer(new int[]{sr,sc});
-        int ini_color=image[sr][sc];
-        boolean [][] vis=new boolean[image.length][image[0].length];
-        image[sr][sc]=color;
-        while(!q.isEmpty()){
-           sr=q.peek()[0];
-           sc=q.peek()[1];
-           vis[sr][sc]=true;
-           q.poll();
-           for(int i=-1;i<=1;i+=2){
-            int nr=sr+i;int nc=sc;
-            if(nr>=0&& nc>=0 && nr<image.length && nc<image[0].length && !vis[nr][nc] && image[nr][nc]==ini_color){
-                    vis[nr][nc]=true;
-                    image[nr][nc]=color;
-                    q.offer(new int[]{nr,nc});
-                }
-           }
-           for(int i=-1;i<=1;i+=2){
-            int nr=sr;
-            int nc=sc+i;
-            if(nr>=0&& nc>=0 && nr<image.length && nc<image[0].length && !vis[nr][nc] && image[nr][nc]==ini_color){
-                    vis[nr][nc]=true;
-                    image[nr][nc]=color;
-                     q.offer(new int[]{nr,nc});
-                }
-           }
-          
+        // code here
+               int [][] arr=new int[image.length][image[0].length];
+               boolean [][] vis=new boolean[arr.length][arr[0].length];
+               for(int i=0;i<arr.length;i++){
+                   for(int j=0;j<arr[0].length;j++){
+                       arr[i][j]=image[i][j];
+                   }
+               }
+               dfs(arr,sr,sc,color,image[sr][sc],vis);
+               return arr;
+               
+    }
+    public void dfs(int[][] img, int sr, int sc, int c,int ic,boolean [][] vis){
+        vis[sr][sc]=true;
+        img[sr][sc]=c;
+        int [][] moves={
+            {0,1},{0,-1},{-1,0},{1,0}
+        };
+        for(int i=0;i<moves.length;i++){
+            int cr=sr+moves[i][0];
+            int cc=sc+moves[i][1];
+            if(cr>=0 && cr<img.length && cc>=0 && cc<img[0].length && img[cr][cc]==ic && !vis[cr][cc]){
+                dfs(img,cr,cc,c,ic,vis);
+            }
         }
-        return image;
+        return;
     }
 }

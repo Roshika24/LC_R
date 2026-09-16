@@ -42,12 +42,12 @@ class Solution {
              }
              else j++;
            }
-             //System.out.println(i+" "+j+" "+len+" "+f);
+             
            
         }
         i++;
       }
-      System.out.println(len);
+    
       return ans;
     }
 }

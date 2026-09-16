@@ -6,16 +6,11 @@ class Solution {
         int c=0;
         while(r<nums.length){
             if(nums[r]==0)c++;
-            if(c>k){
-                if(l<nums.length && nums[l]==0){
-                    c--;
-                }
-                l++;
+            while(l<=r && c>k){
+               if(nums[l]==0)c--;
+               l++;
             }
-            if(c<=k){
-                max=Math.max(max,r-l+1);
-                
-            }
+            max=Math.max(max,r-l+1);
             r++;
         }
         return max;

@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->

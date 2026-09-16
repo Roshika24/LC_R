@@ -9,11 +9,12 @@ class Solution {
         curr.put(t.charAt(i),0);
         
       }
-      String ans="";
+      int idxi=0;
+      int idxj=0;
       int min=Integer.MAX_VALUE;
       int i=0;int j=0;
       int f=0;
-      int len=Integer.MAX_VALUE;
+      //int len=Integer.MAX_VALUE;
       while(i<s.length()){
         if(mp.containsKey(s.charAt(i))){
             int c=mp.get(s.charAt(i));
@@ -33,10 +34,11 @@ class Solution {
                  if(cur<hcur){
                     f--;
                  }
-                 len=Math.min(len,i-j+1);
-                 if(len<min){
-                    min=len;
-                    ans=s.substring(j,i+1);
+                int windowLen = i-j+1;
+
+                if(windowLen < min){
+                    min=windowLen;
+                    idxi=i;idxj=j;
                  }
                  j++;
              }
@@ -47,7 +49,9 @@ class Solution {
         }
         i++;
       }
-    
-      return ans;
+    if(min == Integer.MAX_VALUE)
+            return "";
+
+        return s.substring(idxj, idxi + 1);
     }
 }

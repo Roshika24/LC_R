@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Roshika24/LC_R/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,4 +104,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
+| [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

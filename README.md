@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Roshika24/LC_R/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Roshika24/LC_R/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

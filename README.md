@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Roshika24/LC_R/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Roshika24/LC_R/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Roshika24/LC_R/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Roshika24/LC_R/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -160,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Roshika24/LC_R/tree/master/0207-course-schedule) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->

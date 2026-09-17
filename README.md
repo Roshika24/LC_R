@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Roshika24/LC_R/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Roshika24/LC_R/tree/master/0700-search-in-a-binary-search-tree) |

@@ -19,11 +19,9 @@ class Solution {
         
     }
     public static int dep(TreeNode root){
-        if(root==null ) return 0;
-        
-        int ld=dep(root.left);
-        int rd=dep(root.right);
-        
-        return Math.max(ld,rd)+1;
+       if(root==null)return 0;
+       int l=dep(root.left);
+       int r=dep(root.right);
+       return 1+Math.max(l,r);
     }
 }

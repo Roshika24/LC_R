@@ -15,16 +15,15 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
-        TreeNode ans=root;
         mirror(root);
         return root;
     }
     public static void mirror(TreeNode root){
-        if(root==null) return;
+        if(root==null)return ;
         TreeNode temp=root.left;
         root.left=root.right;
         root.right=temp;
-        mirror(root.right);
         mirror(root.left);
+        mirror(root.right);
     }
 }

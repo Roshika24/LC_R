@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshika24/LC_R/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 ## Math
 |  |
 | ------- |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Roshika24/LC_R/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/Roshika24/LC_R/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Roshika24/LC_R/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Roshika24/LC_R/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |

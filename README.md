@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Roshika24/LC_R/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 ## Matrix
@@ -204,8 +208,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->

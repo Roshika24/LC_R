@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/Roshika24/LC_R/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshika24/LC_R/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshika24/LC_R/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/Roshika24/LC_R/tree/master/1463-cherry-pickup-ii) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 ## Math
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/Roshika24/LC_R/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1463-cherry-pickup-ii](https://github.com/Roshika24/LC_R/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshika24/LC_R/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
 |  |

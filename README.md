@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshika24/LC_R/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Roshika24/LC_R/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |

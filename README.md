@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Roshika24/LC_R/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/Roshika24/LC_R/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Roshika24/LC_R/tree/master/1004-max-consecutive-ones-iii) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/Roshika24/LC_R/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshika24/LC_R/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Roshika24/LC_R/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Roshika24/LC_R/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Roshika24/LC_R/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Roshika24/LC_R/tree/master/0886-possible-bipartition) |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Roshika24/LC_R/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Roshika24/LC_R/tree/master/1162-as-far-from-land-as-possible) |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/Roshika24/LC_R/tree/master/1463-cherry-pickup-ii) |
 | [1765-map-of-highest-peak](https://github.com/Roshika24/LC_R/tree/master/1765-map-of-highest-peak) |
 ## Math
@@ -233,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Roshika24/LC_R/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

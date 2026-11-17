@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
 | [0542-01-matrix](https://github.com/Roshika24/LC_R/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Roshika24/LC_R/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Roshika24/LC_R/tree/master/0994-rotting-oranges) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Roshika24/LC_R/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Roshika24/LC_R/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Roshika24/LC_R/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Roshika24/LC_R/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,5 +246,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
 | [1267-count-servers-that-communicate](https://github.com/Roshika24/LC_R/tree/master/1267-count-servers-that-communicate) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Roshika24/LC_R/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Roshika24/LC_R/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Roshika24/LC_R/tree/master/0089-gray-code) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Roshika24/LC_R/tree/master/2101-detonate-the-maximum-bombs) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Roshika24/LC_R/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Geometry
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Roshika24/LC_R/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Roshika24/LC_R/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
